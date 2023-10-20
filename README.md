@@ -12,6 +12,7 @@ MISC
 - [ ] Tuxedo Park: A Wall Street Tycoon and The Secret Palace of Science That Changed The Course of World War 2 by Jennet Conant
 - [ ] Cadillac Desert: The American West and Its Disappearing Water
 - [ ] Lean Analytics: Use Data to Build a Better Startup Faster
+- [ ] Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers
 
 
 SCREENWRITING
