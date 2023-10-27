@@ -1,13 +1,16 @@
 ## 2023
 
+* Den vedervärdige mannen från Säffle by Sjöwall Wahlöö ★★★★☆ (This is my first book a read in Swedish - an easy to read crime fiction)
 * El otro yo by Rafael Caunedo (read 2/3 didn't finish) ★★☆☆☆
 * Chip War: The Fight for the World’s Most Critical Technology, by Chris Miller ★★★★★
 * Dead in the Water: A True Story of Hijacking, Murder, and a Global Maritime Conspiracy by Kit Chellel and Matthew Campbell ★★★☆☆ (it was nice, just could be 10 times shorter)
 
 ---
 
-MISC
+WAITING ROOM
 
+- [ ] Clear Thinking: Turning Ordinary Moments into Extraordinary Results by Shane Parrish 
+- [ ] Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
 - [ ] The Virgin Way: Everything I Know About Leadership by Richard Branson
 - [ ] Tuxedo Park: A Wall Street Tycoon and The Secret Palace of Science That Changed The Course of World War 2 by Jennet Conant
 - [ ] Cadillac Desert: The American West and Its Disappearing Water
