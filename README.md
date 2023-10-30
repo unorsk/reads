@@ -9,6 +9,8 @@
 
 WAITING ROOM
 
+- [ ] Scaling People by Claire Hughes Johnson
+- [ ] Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis by Ethan Bueno De Mesquita, Anthony Fowler
 - [ ] Clear Thinking: Turning Ordinary Moments into Extraordinary Results by Shane Parrish 
 - [ ] Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
 - [ ] The Virgin Way: Everything I Know About Leadership by Richard Branson
