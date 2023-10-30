@@ -10,6 +10,8 @@
 WAITING ROOM
 
 - [ ] Scaling People by Claire Hughes Johnson
+- [ ] The Product Manager Interview: 167 Actual Questions and Answers Paperback by Lewis C. Lin, Teng Lu 
+- [ ] Product Analytics - Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues
 - [ ] Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis by Ethan Bueno De Mesquita, Anthony Fowler
 - [ ] Clear Thinking: Turning Ordinary Moments into Extraordinary Results by Shane Parrish 
 - [ ] Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
