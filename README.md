@@ -1,5 +1,6 @@
 ## 2023
 
+* Rafa, mi historia (Spanish Edition) by John Carlin
 * Blood and Oil - Mohammed bin Salman's Ruthless Quest for Global Power by Bradley Hope, Justin Scheck ★★★★☆ It's well written, but once in a while a had difficulties keeping track of all the Samlans and Mohammeds – too many people having same names. The book gives a very good perspective on modern Saudi Arabia's politics.
 * Den vedervärdige mannen från Säffle by Sjöwall Wahlöö ★★★★☆ (This is my first book a read in Swedish - an easy to read crime fiction)
 * El otro yo by Rafael Caunedo (read 2/3 didn't finish) ★★☆☆☆
