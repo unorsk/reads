@@ -1,3 +1,7 @@
+## 2024
+
+* Clear Thinking: Turning Ordinary Moments into Extraordinary Results by Shane Parrish (I had this weird feeling as if the author has an impostor syndrom and knows that the reader knows about it) ★★★☆☆
+
 ## 2023
 
 * Rafa, mi historia (Spanish Edition) by John Carlin
@@ -6,7 +10,6 @@
 * El otro yo by Rafael Caunedo (read 2/3 didn't finish) ★★☆☆☆
 * Chip War: The Fight for the World’s Most Critical Technology, by Chris Miller ★★★★★
 * Dead in the Water: A True Story of Hijacking, Murder, and a Global Maritime Conspiracy by Kit Chellel and Matthew Campbell ★★★☆☆ (it was nice, just could be 10 times shorter)
-* Clear Thinking: Turning Ordinary Moments into Extraordinary Results by Shane Parrish (I had this weird feeling as if the author has an impostor syndrom and knows that the reader knows about it) ★★★☆☆
 
 ---
 
